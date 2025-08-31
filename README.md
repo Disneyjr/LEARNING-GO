@@ -1,13 +1,14 @@
 # LEARNING-GO
 
-📚 Repositório de estudos para dominar o **core da linguagem Go** usando apenas a **stdlib**.  
-Organizado em 10 semanas, cada uma com metas e exercícios práticos.
+> 📚 Repositório de estudos para dominar o básico da **linguagem Go** usando apenas a **stdlib**.  
+>
+> Organizado em 10 semanas, cada uma com metas e exercícios práticos.
 
 ---
 
 ## 📅 Roadmap de Estudos
 
-### ✅ Semana 1 — Fundamentos
+### 🚀 Semana 1 [31/08 - 06/09] — Fundamentos
 - Sintaxe básica, funções, erros simples  
 - Exercícios: calculadora CLI, troca de valores  
 
