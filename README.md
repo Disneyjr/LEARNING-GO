@@ -12,11 +12,11 @@
 - Sintaxe básica, funções, erros simples  
 - Exercícios: calculadora CLI, troca de valores  
 
-### 🚀 Semana 2 [07/09 - 13/09] — Estruturas de Dados
+### ✅ Semana 2 [07/09 - 13/09] — Estruturas de Dados
 - Arrays, slices, maps, structs e interfaces  
 - Exercícios: agenda telefônica, stack/queue  
 
-### ⏳ Semana 3 [14/09 - 20/09] — Ponteiros, Composição e Generics
+### 🚀 Semana 3 [14/09 - 20/09] — Ponteiros, Composição e Generics
 - Ponteiros, embedding, generics básicos  
 - Exercícios: set genérico, função `Max`  
 
