@@ -56,3 +56,8 @@ Chegar ao final das 10 semanas dominando:
 - Arquitetura limpa em Go sem bibliotecas externas  
 
 ---
+
+## 📅 Aprendizado Extra.
+- Na segunda semana resolvi introduzir os testes unitarios e testes de Benchmark para ir me adaptando a esses conceitos na linguagem.
+> `go test -v # run the unit test #`
+> `go test -bench . -benchmem -benchtime=100000x # run the benchmark test X times #`
